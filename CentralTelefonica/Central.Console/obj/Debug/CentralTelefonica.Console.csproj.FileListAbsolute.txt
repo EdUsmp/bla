@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\CentralTelefonica\Central.Console\bin\Debug\Central.Console.exe.config
+C:\Users\PC\Desktop\CentralTelefonica\Central.Console\bin\Debug\Central.Console.exe
+C:\Users\PC\Desktop\CentralTelefonica\Central.Console\bin\Debug\Central.Console.pdb
+C:\Users\PC\Desktop\CentralTelefonica\Central.Console\bin\Debug\Central.Entities.dll
+C:\Users\PC\Desktop\CentralTelefonica\Central.Console\bin\Debug\Central.Entities.pdb
+C:\Users\PC\Desktop\CentralTelefonica\Central.Console\obj\Debug\CentralTelefonica.Console.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\CentralTelefonica\Central.Console\obj\Debug\Central.Console.exe
+C:\Users\PC\Desktop\CentralTelefonica\Central.Console\obj\Debug\Central.Console.pdb
